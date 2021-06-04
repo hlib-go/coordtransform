@@ -1,1 +1,3 @@
-module github.com/qichengzx/coordtransform
+module github.com/hlib-go/coordtransform
+
+go 1.14
